@@ -2,7 +2,7 @@ cask "querly" do
   version "1.12.1,33"
   sha256 "dcfdb1869f106dd78a1766effbb893a42183b1c6f4aec6e96f6c49fadb55d1ee"
 
-  url "https://downloads.quietkit.app/querly/Querly-#{version.csv.first}-build#{version.csv.second}.dmg"
+  url "https://downloads.quietkit.app/querly/Querly-#{version.csv.first}.dmg"
   name "Querly"
   desc "Native database client"
   homepage "https://querly.quietkit.app/"
