@@ -1,6 +1,6 @@
 cask "querly" do
-  version "1.12.1,33"
-  sha256 "dcfdb1869f106dd78a1766effbb893a42183b1c6f4aec6e96f6c49fadb55d1ee"
+  version "1.13.0,34"
+  sha256 "d29755686860b0efd84fde7ada7294cb5b739936cc98525f4c4c502b1b003473"
 
   url "https://downloads.quietkit.app/querly/Querly-#{version.csv.first}.dmg"
   name "Querly"
